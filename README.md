@@ -1,2 +1,2 @@
-Resume of Alex Hunter.
-Last updated: 13/June/2024
+# Resume of Alex Hunter.
+# Last updated: 13/June/2024
