@@ -1,11 +1,8 @@
 # Alex Hunter
-
-Ilkley  
-West Yorkshire  
-+44 (0) 7885 458 768  
-alex@alexhunter.net  
-
 Passionate and skilled Senior Product Leader.
+
+Contact via [LinkedIn Profile](https://www.linkedin.com/in/alexhunterpo)
+
 
 ## ABOUT
 
