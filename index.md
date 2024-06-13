@@ -7,54 +7,6 @@ alex@alexhunter.net
 
 Passionate and skilled Senior Product Leader.
 
-## SKILLS
-
-- Proposition Development
-- Product Strategy & Vision
-- Roadmap Development & Management
-- Cross-functional Team Leadership
-- Customer Journey Mapping
-- Strategic Project Planning
-- Stakeholder Management
-- Market Analysis
-- Go-to-Market Strategy
-- Product Lifecycle Management
-- Risk Management
-- Mobile App Development
-- B2B & B2C SaaS
-- Agile Methodologies
-- JIRA & Confluence
-- Team Development
-
-## TOOLS
-
-- Jira
-- Confluence
-- Trello
-- Productboard
-- Roadmunk
-- Figma
-- Google Analytics
-- Google Firebase
-
-## INDUSTRIES
-
-- Technology & Digital
-- Energy and Utilities
-- Travel and Tourism
-- Retail and E-commerce
-- Financial Services
-
-## CERTIFICATES
-
-- Certified Scrum Product Owner
-- Certified ScrumMaster
-
-## LANGUAGES
-
-- English
-- Spanish - Basic Conversational
-
 ## ABOUT
 
 Dynamic senior product leader with extensive experience in driving product visions and strategies. Skilled in aligning product goals with business objectives through market research, user and product discovery, and strategic planning. Proven track record in managing stakeholder relationships and leading cross-functional teams to deliver impactful solutions. Known for pioneering innovative ideas and setting trends to foster business growth.
@@ -138,6 +90,54 @@ Coordinated a talented team to deliver a top-tier Product Information Management
 - Ensured the platform met the needs of the clothing and general merchandise departments.
 - Collaborated with stakeholders to align project goals with business objectives.
 - Managed project timelines and deliverables to ensure successful implementation.
+
+## SKILLS
+
+- Proposition Development
+- Product Strategy & Vision
+- Roadmap Development & Management
+- Cross-functional Team Leadership
+- Customer Journey Mapping
+- Strategic Project Planning
+- Stakeholder Management
+- Market Analysis
+- Go-to-Market Strategy
+- Product Lifecycle Management
+- Risk Management
+- Mobile App Development
+- B2B & B2C SaaS
+- Agile Methodologies
+- JIRA & Confluence
+- Team Development
+
+## TOOLS
+
+- Jira
+- Confluence
+- Trello
+- Productboard
+- Roadmunk
+- Figma
+- Google Analytics
+- Google Firebase
+
+## INDUSTRIES
+
+- Technology & Digital
+- Energy and Utilities
+- Travel and Tourism
+- Retail and E-commerce
+- Financial Services
+
+## CERTIFICATES
+
+- Certified Scrum Product Owner
+- Certified ScrumMaster
+
+## LANGUAGES
+
+- English
+- Spanish - Basic Conversational
 
 ## RECOMMENDATIONS
 
