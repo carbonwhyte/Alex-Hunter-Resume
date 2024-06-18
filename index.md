@@ -34,10 +34,15 @@ Focused on creating immersive user experiences using Unreal Engine. Directed the
 
 Led a data discovery team to model SF6 leakage across the network. Successfully secured significant funding to support environmental and sustainability goals, collaborating with technical and environmental experts to minimise emissions.
 
-- Secured £1.75 million in funding for the SF6 team, supporting efforts to reduce SF6 leakage.
-- Led a specialised data discovery team, focusing on modelling SF6 leakage and enhancing predictive capabilities.
-- Managed and analysed network data, contributing to National Grid's environmental goals.
-- Collaborated with experts to minimise SF6 emissions and promote sustainable energy practices.
+- Led a data discovery squad to model SF6 leakage using IoT sensor data, site images, and video data.
+- Successfully secured £1.75 million in funding to support these efforts and promote sustainability goals.
+- Implemented ML models and MLOps practices to predict leakage events, enabling preventive maintenance and
+reducing environmental impact.
+Managed extensive network data to support National Grid’s environmental and sustainability objectives.
+Collaborated with technical and environmental experts to minimise SF6 emissions and promote sustainable energy
+practices.
+Assisted a separate squad as Assistant Product Owner to deliver AR capabilities to on-site engineers using Meta
+Quest hardware, digitising station infrastructure.
 
 ### Senior Product Owner - Data
 **Sainsbury’s · Leeds, UK · Contract · October 2021 - July 2022**
@@ -77,6 +82,12 @@ Led cross-functional teams in a fast-paced agency environment, delivering mobile
 - Delivered mobile apps that transformed client businesses and disrupted markets.
 - Managed cross-functional teams to ensure timely and successful project delivery.
 - Collaborated with clients to understand their needs and translate them into effective mobile solutions.
+
+**Key Projects:**
+
+- Bespoke Fleet Management System: Developed a custom fleet management system for a waste removals company, utilising basic machine learning on company data and external data sources (e.g., weather & traffic) to optimise route planning and reduce costs.
+- Construction Company Back-Office Platform: Created a bespoke back-office platform for a construction company, eliminating all paper-based paperwork. Delivered an accompanying mobile application for field workers to streamline job management and enhance efficiency.
+- Digital Work Solution for Civil Engineering, House Building, and Utilities Company: Implemented a digital work solution to remove paper from the quoting process. Developed an iOS ordinance survey app for surveyors (enabling more efficient construction planning) and back-office management tools to streamline billing. Converted the product to a SaaS model, allowing it to be sold to competitors in other territories & countries.
 
 ### Product Owner - Backend
 **ASDA/Walmart · Leeds, UK · Full-time · Jan 2013 - June 2018**
@@ -144,5 +155,4 @@ Alex is a solid Senior Product Owner making his way to Head of Product. He creat
 
 ### PSM III Scrum Master, 2024:
 
-I had the privilege to work with Alex on an innovative greenfield project for several months. He navigated an ever-changing environment with grace and composure, making the complex role of a product owner seem effortless—a true sign of professional mastery. Alex's ability to listen before speaking quickly earns him trust and acceptance as a leader. He consistently creates clarity in challenging situations and understands agile principles deeply. By managing stakeholder expectations effectively, he keeps technical teams focused and productive. After 20+ years in software development, Alex stands out as the benchmark for a great product owner, and I would consider myself very lucky to work with him again.
-
+I had the privilege to work with Alex on an innovative greenfield project for several months. He navigated an ever-changing environment with grace and composure, making the complex role of a product owner seem effortless—a true sign of professional mastery. Alex's ability to listen before speaking quickly earns him trust and acceptance as a leader. He consistently creates clarity in challenging situations and understands agile principles deeply. After my 20+ years in software development, Alex stands out as the benchmark for a great product owner, and I would consider myself very lucky to work with him again.
