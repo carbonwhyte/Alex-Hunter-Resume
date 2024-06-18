@@ -38,10 +38,10 @@ Led a data discovery team to model SF6 leakage across the network. Successfully 
 - Successfully secured £1.75 million in funding to support these efforts and promote sustainability goals.
 - Implemented ML models and MLOps practices to predict leakage events, enabling preventive maintenance and
 reducing environmental impact.
-Managed extensive network data to support National Grid’s environmental and sustainability objectives.
-Collaborated with technical and environmental experts to minimise SF6 emissions and promote sustainable energy
+- Managed extensive network data to support National Grid’s environmental and sustainability objectives.
+- Collaborated with technical and environmental experts to minimise SF6 emissions and promote sustainable energy
 practices.
-Assisted a separate squad as Assistant Product Owner to deliver AR capabilities to on-site engineers using Meta
+- Assisted a separate squad as Assistant Product Owner to deliver AR capabilities to on-site engineers using Meta
 Quest hardware, digitising station infrastructure.
 
 ### Senior Product Owner - Data
